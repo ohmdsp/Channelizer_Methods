@@ -1,4 +1,6 @@
-Matlab Toolbox - Channelizer Methods 
+Matlab Toolbox - RF Channelizer Methods 
+
+<img src="channelizer.jpg" alt="Demo" width="800"/>
 
 channelizer_demo.m - runs all the current methods (both analysis and synthesis) with plots
 
